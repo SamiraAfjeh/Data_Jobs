@@ -90,6 +90,4 @@ Whether you're:
 - A recruiter analyzing talent demand  
 - A data analyst studying the job market  
 
-this dashboa<im<img width="2588" height="1450" alt="Dashboard_Page2" src="https://github.com/user-attachments/assets/682c937a-e0e4-40a5-bd26-ab58ca38bd00" />
-g width="2594" height="1450" alt="Dashboard _Page1" src="https://github.com/user-attachments/assets/b2c4d27f-76f2-46f1-9a4f-69672f01e759" />
-rd helps you make **data-driven career decisions**.
+this dashboard helps you make **data-driven career decisions**.
