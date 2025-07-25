@@ -39,7 +39,7 @@ explore:
 
 ## 📌 Dashboard Pages
 
-### 📄 **Pag<img width="2594" height="1450" alt="Dashboard _Page1" src="https://github.com/user-attachments/assets/cc7b0dc7-f130-4839-9cd4-707fac92b288" />
+### 📄 **Page<img width="2594" height="1450" alt="Dashboard _Page1" src="https://github.com/user-attachments/assets/cc7b0dc7-f130-4839-9cd4-707fac92b288" />
 e 1: Market Overview**
 
 ![Dashboard Page 1](./Images/Project1/Dashboard_Page1.png)
