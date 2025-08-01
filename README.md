@@ -39,8 +39,8 @@ explore:
 
 ## 📌 Dashboard Pages
 
-### 📄 Page<img width="2594" height="1450" alt="Dashboard _Page1" src="https://github.com/user-attachments/assets/cc7b0dc7-f130-4839-9cd4-707fac92b288" />
-e 1: Market Overview**
+### 📄**Page 1: Market Overview**<img width="2594" height="1450" alt="Dashboard _Page1" src="https://github.com/user-attachments/assets/cc7b0dc7-f130-4839-9cd4-707fac92b288" />
+
 
 ![Dashboard Page 1](./Images/Project1/Dashboard_Page1.png)
 
@@ -55,8 +55,8 @@ This page gives a broad view of the 2024 job market for data roles:
 
 ---
 
-### 🔍 Page 2: Drill-Throug<img width="2588" height="1450" alt="Dashboard_Page2" src="https://github.com/user-attachments/assets/f858b2b7-5bae-4330-93bb-082874bcdab5" />
-h – Data Engineer View**
+### 🔍 **Page 2: Drill-Through – Data Engineer View**<img width="2588" height="1450" alt="Dashboard_Page2" src="https://github.com/user-attachments/assets/f858b2b7-5bae-4330-93bb-082874bcdab5" />
+
 
 ![Dashboard Page 2](./Images/Project1/Dashboard_Page2.png)
 
